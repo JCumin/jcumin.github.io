@@ -27,7 +27,7 @@ I am a researcher at Orange Innovation since 2015. My research mainly focuses on
 
 ## Resume
 
-- **Doctoral thesis**: *Recognizing and predicting activities in smart homes*, defended in 2018. Supervision: Grégoire Lefebvre (Orange), Fano Ramparany (Orange), James L. Crowley (Université Grenoble Alpes, LIG, Inria)
+- **Doctoral thesis**: *Recognizing and predicting activities in smart homes*, defended in 2018. Supervision: Grégoire Lefebvre (Orange), Fano Ramparany (Orange), James L. Crowley (Université Grenoble Alpes, LIG, Inria).
 - **Computer science engineer**: Institut National des Sciences Appliquées (INSA) de Lyon, 2015. With honours, Rank: 7/106.
 
 
