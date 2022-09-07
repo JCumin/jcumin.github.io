@@ -3,7 +3,7 @@ url: "http://juliencumin.github.io"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./orange_logo.png"
+#ins_logo: "./orange_logo.png"
 
 tracking_id: #
 
