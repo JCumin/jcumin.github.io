@@ -17,3 +17,5 @@ sass:
 nav:
  - name: "About"
    link: "index"
+ - name: "Students"
+   link: "students"
