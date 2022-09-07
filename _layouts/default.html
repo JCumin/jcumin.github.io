@@ -56,10 +56,12 @@
 <body>
     <div class="wrapper">
         <div class="navbar container">
-            {% if site.ins_logo %}
-                <img id="ins-logo" src="{{ site.ins_logo }}" />
-            {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <div>
+                {% if site.ins_logo %}
+                   <img id="ins-logo" src="{{ site.ins_logo }}" />
+                {% endif %}
+                <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            </div>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
