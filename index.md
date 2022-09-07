@@ -40,7 +40,7 @@ Mail: [julien1.cumin@orange.com](mailto:julien1.cumin@orange.com)
 - [Researchgate](https://www.researchgate.net/profile/Julien-Cumin)
 
 
-> Julien Cumin, Orange
-> 22 chemin du Vieux Chêne
+> Julien Cumin, Orange<br>
+> 22 chemin du Vieux Chêne<br>
 > 38240 Meylan, France
 
