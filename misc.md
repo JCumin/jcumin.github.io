@@ -9,3 +9,8 @@ As a showcase, [here is a 34-character Brachylog program that solves sudokus](ht
     {0∧9≥ℕ₁|}ᵐ².≠ᵐ\≠ᵐḍ₃ḍ₃ᵐ²zᵐcᵐ²c≠ᵐ∧.≜
     
 [Learn more about Brachylog on Github](https://github.com/JCumin/Brachylog).
+
+
+## Page design
+
+[Page design by Ankit Sultana](https://github.com/ankitsultana/researcher).
