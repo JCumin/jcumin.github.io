@@ -25,7 +25,7 @@ title: Publications
 - [EGC 2016] Julien Cumin, Jean-Marc Petit, Fabien Rouge, Vasile-Marian Scuturici, Christian Surace, Sabina Surdu. *Requêtes discriminantes pour l’exploration des données*.
 
 
-## Patents applications
+## Patent applications
 
 - [2022] A method of promoting positive notifications tailored to an individual's stress level.
 - [2022] System for the estimation of the surface of a room with a regularly tiled ceiling.
