@@ -25,3 +25,5 @@ nav:
    link: "skills"
  - name: "Students"
    link: "students"
+ - name: "Misc."
+   link: "misc"
