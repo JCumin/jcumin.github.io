@@ -5,7 +5,7 @@ title: Publications
 
 ## International Conferences
 
-- [ICPR 2022] Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley. * Transformer-based self-supervised learning for emotion recognition*.
+- [ICPR 2022] Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley. *Transformer-based self-supervised learning for emotion recognition*.
 - [PerCom 2018] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *Inferring availability for communication in smart homes using context*.
 - [UCAmI 2017] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset of routine daily activities in an instrumented home*.
 - [CONTEXT 2017] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *Human activity recognition using place-based decision fusion in smart homes*.
