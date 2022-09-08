@@ -14,23 +14,6 @@ I am a researcher at Orange Innovation since 2015. My research mainly focuses on
 - **Identifying human emotions** from physiological data, with **attention-based models**.
 
 
-
-## Research topics
-
-- Machine learning, deep learning
-- Attention-based models, Transformers
-- Decision fusion
-- Human context
-- Semantic models, ontologies
-- Smart homes, smart offices, pervasive computing
-- Internet of Things, digital twins
-
-## Resume
-
-- **Doctoral thesis**: *Recognizing and predicting activities in smart homes*, defended in 2018. Supervision: Grégoire Lefebvre (Orange), Fano Ramparany (Orange), James L. Crowley (Université Grenoble Alpes, LIG, Inria).
-- **Computer science engineer**: Institut National des Sciences Appliquées (INSA) de Lyon, 2015. With honours, Rank: 7/106.
-
-
 ## Contact information
 
 Mail: [julien1.cumin@orange.com](mailto:julien1.cumin@orange.com)
