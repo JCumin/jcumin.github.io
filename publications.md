@@ -5,52 +5,52 @@ title: Publications
 
 ## International Conferences
 
-- [ACII 2022] Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley. *Emotion recognition with pre-trained transformers using multimodal signals*.
-- [ICPR 2022] Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley. *Transformer-based self-supervised learning for emotion recognition*.
-- [PerCom 2018] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *Inferring availability for communication in smart homes using context*.
-- [UCAmI 2017] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset of routine daily activities in an instrumented home*.
-- [CONTEXT 2017] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *Human activity recognition using place-based decision fusion in smart homes*.
-- [EDBT 2017] Julien Cumin, Jean-Marc Petit, Vasile-Marian Scuturici, Sabina Surdu. *Data exploration with SQL using machine learning techniques*.
-- [VISAPP 2016] Grégoire Lefebvre, Julien Cumin. *Recognizing human actions based on extreme learning machines*.
-- [VISAPP 2016] Julien Cumin, Grégoire Lefebvre. *A priori data and a posteriori decision fusions for human action recognition*.
+- [ACII 2022] *Emotion recognition with pre-trained transformers using multimodal signals*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
+- [ICPR 2022] *Transformer-based self-supervised learning for emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
+- [PerCom 2018] *Inferring availability for communication in smart homes using context*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
+- [UCAmI 2017] *A dataset of routine daily activities in an instrumented home*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
+- [CONTEXT 2017] *Human activity recognition using place-based decision fusion in smart homes*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
+- [EDBT 2017] *Data exploration with SQL using machine learning techniques*. Julien Cumin, Jean-Marc Petit, Vasile-Marian Scuturici, Sabina Surdu.
+- [VISAPP 2016] *Recognizing human actions based on extreme learning machines*. Grégoire Lefebvre, Julien Cumin.
+- [VISAPP 2016] *A priori data and a posteriori decision fusions for human action recognition*. Julien Cumin, Grégoire Lefebvre.
 
 
 ## International Journals
 
-- [TAAS 2021] Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *PSINES: activity and availability prediction for adaptive ambient intelligence*.
-- [CONTEXT 2021] Julien Cumin, Fano Ramparany, Grégoire Lefebvre, James L. Crowley. *Human activity recognition using place-based decision fusion in a smart home context management system*.
+- [TAAS 2021] *PSINES: activity and availability prediction for adaptive ambient intelligence*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
+- [CONTEXT 2021] *Human activity recognition using place-based decision fusion in a smart home context management system*. Julien Cumin, Fano Ramparany, Grégoire Lefebvre, James L. Crowley.
 
 
 ## National Conferences
 
-- [EGC 2016] Julien Cumin, Jean-Marc Petit, Fabien Rouge, Vasile-Marian Scuturici, Christian Surace, Sabina Surdu. *Requêtes discriminantes pour l’exploration des données*.
+- [EGC 2016] *Requêtes discriminantes pour l’exploration des données*. Julien Cumin, Jean-Marc Petit, Fabien Rouge, Vasile-Marian Scuturici, Christian Surace, Sabina Surdu.
 
 
 ## Patent applications
 
-- [2022] A method of promoting positive notifications tailored to an individual's stress level.
-- [2022] System for the estimation of the surface of a room with a regularly tiled ceiling.
-- [2022] System for the triggering of localized human activity recognition.
-- [2022] Process for determining a mobile device type of location.
-- [2022] System for identifying connected equipments of a network through transmission of vibrations via a mobile device.
-- [2021] System for suggesting uses and objects from user profile similarities.
-- [2021] System for correcting lighting colorimetry in a room.
-- [2021] System for managing notifications based on emotions deduced from electrocardiograms.
-- [2021] Process to put on standby devices with mutually exclusive use.
-- [2021] Multimedia device remote control unit research.
-- [2021] Reconfiguring of connected objects based on contextual information.
-- [2021] Content connection on remote control.
-- [2021] System for verifying the proper functioning of wireless devices.
-- [2018] Automatic adaptatioin of geofencing range depending on context.
-- [2018] Propagation of location information of connected objects in an object network.
-- [2018] Presence detection by smart peaker.
-- [2017] Prediction of the availability of smart home residents.
+- [2022] *A method of promoting positive notifications tailored to an individual's stress level*. Grégoire Lefebvre, Julien Cumin, Juan-Vazquez Rodriguez.
+- [2022] *System for the estimation of the surface of a room with a regularly tiled ceiling*. Julien Cumin, Stéphane Coutant.
+- [2022] *System for the triggering of localized human activity recognition*. Julien Cumin, Kévin L’Héréec.
+- [2022] *Process for determining a mobile device type of location*. Julien Pairis, Julien Cumin.
+- [2022] *System for identifying connected equipments of a network through transmission of vibrations via a mobile device*. Julien Cumin, Julien Pairis.
+- [2021] *System for suggesting uses and objects from user profile similarities*. Julien Cumin, Fano Ramparany, Frédéric Bour.
+- [2021] *System for correcting lighting colorimetry in a room*. Julien Cumin, Kévin L’Héréec.
+- [2021] *System for managing notifications based on emotions deduced from electrocardiograms*. Julien Cumin, Grégoire Lefebvre, Juan-Vazquez Rodriguez.
+- [2021] *Process to put on standby devices with mutually exclusive use*. Julien Cumin, Julien Pairis.
+- [2021] *Multimedia device remote control unit research*. Julien Pairis, Julien Cumin.
+- [2021] *Reconfiguring of connected objects based on contextual information*. David Cibaud, Julien Cumin.
+- [2021] *Content connection on remote control*. Julien Pairis, Julien Cumin.
+- [2021] *System for verifying the proper functioning of wireless devices*. Julien Cumin, Kévin L’Héréec.
+- [2018] *Automatic adaptatioin of geofencing range depending on context*. Kévin L’Héréec, Julien Cumin.
+- [2018] *Propagation of location information of connected objects in an object network*. Julien Cumin, David Cibaud.
+- [2018] *Presence detection by smart peaker*. Julien Pairis, Julien Cumin.
+- [2017] *Prediction of the availability of smart home residents*. Grégoire Lefebvre, Julien Cumin, Fano Ramparany.
 
 
 ## Demos & Challenges
 
-- [JFSMA 2022] Julien Cumin, Fano Ramparany, Iago Felipe Trentin, Olivier Boissier. *Maisons Collaboratives*.
-- [ISWC 2021] Fano Ramparany, Iago Felipe Trentin, Julien Cumin, Olivier Boissier. *Collaborative homes*. **Finalists**
+- [JFSMA 2022] *Maisons Collaboratives*. Julien Cumin, Fano Ramparany, Iago Felipe Trentin, Olivier Boissier.
+- [ISWC 2021] *Collaborative homes*. Fano Ramparany, Iago Felipe Trentin, Julien Cumin, Olivier Boissier. **Finalists**
 
 
 ## Doctoral thesis 
