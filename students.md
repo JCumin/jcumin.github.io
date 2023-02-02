@@ -5,7 +5,7 @@ title: Students
 
 ## Doctoral students
 
-- [2022 - 2025] Xi Chen. *Recognizing multi-human activities in connected environments*. Supervised by Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
+- [2023 - 2026] Xi Chen. *Recognizing multi-human activities in connected environments*. Supervised by Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [2020 - 2023] Juan Vazquez-Rodriguez. [*Multimodal Transformers for Affective Computing*](https://www.theses.fr/s247605#). Supervised by Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 
 
