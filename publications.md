@@ -28,14 +28,17 @@ title: Publications
 
 ## Patent applications
 
-- [2022] *A method of promoting positive notifications tailored to an individual's stress level*. Grégoire Lefebvre, Julien Cumin, Juan-Vazquez Rodriguez.
-- [2022] *System for the estimation of the surface of a room with a regularly tiled ceiling*. Julien Cumin, Stéphane Coutant.
+- [2023] *Method for recognizing situations with temporarily unavailable multimodal data*. Grégoire Lefevbre, Julien Cumin, Juan Vazquez-Rodriguez
+- [2023] *System for estimating distances using a monocular camera*. Stéphane Coutant, Julien Cumin.
+- [2022] *System for indoor localization from correlation of mobile events and fixed sensors*. David Cibaud, Julien Cumin.
+- [2022] *System for automatic logical positioning of screen extension based on physical positions of displays*. Julien Cumin, Fano Ramparany.
+- [2022] *A method of promoting positive notifications tailored to an individual's stress level*. Grégoire Lefebvre, Julien Cumin, Juan Vazquez-Rodriguez.
 - [2022] *System for the triggering of localized human activity recognition*. Julien Cumin, Kévin L’Héréec.
 - [2022] *Process for determining a mobile device type of location*. Julien Pairis, Julien Cumin.
 - [2022] *System for identifying connected equipments of a network through transmission of vibrations via a mobile device*. Julien Cumin, Julien Pairis.
 - [2021] *System for suggesting uses and objects from user profile similarities*. Julien Cumin, Fano Ramparany, Frédéric Bour.
 - [2021] *System for correcting lighting colorimetry in a room*. Julien Cumin, Kévin L’Héréec.
-- [2021] *System for managing notifications based on emotions deduced from electrocardiograms*. Julien Cumin, Grégoire Lefebvre, Juan-Vazquez Rodriguez.
+- [2021] *System for managing notifications based on emotions deduced from electrocardiograms*. Julien Cumin, Grégoire Lefebvre, Juan Vazquez-Rodriguez.
 - [2021] *Process to put on standby devices with mutually exclusive use*. Julien Cumin, Julien Pairis.
 - [2021] *Multimedia device remote control unit research*. Julien Pairis, Julien Cumin.
 - [2021] *Reconfiguring of connected objects based on contextual information*. David Cibaud, Julien Cumin.
