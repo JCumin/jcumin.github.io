@@ -26,7 +26,7 @@ Orange4Home is a dataset of routines of daily living captured in [Amiqual4Home�
 
 This dataset is the result of a joint work between Orange and Inria. The experiment was conducted by Julien Cumin, Grégoire Lefebvre, Fano Ramparany and James L. Crowley, with technical and organisational help from Nicolas Bonnefond and Stan Borkowski
 
-[More information about the dataset is available on Amiqual4Home's website](https://amiqual4home.inria.fr/orange4home/).
+[More information about the dataset is available on Amiqual4Home's website](https://amiqual4home.inria.fr/en/orange4home/).
 
 This dataset is **openly available**, simply contact me by email to ask for access to the dataset. Any use of this dataset in publications must cite the following publication:
 
@@ -38,10 +38,11 @@ Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset o
 
 - Full-time AI researcher for Orange Innovation, Grenoble, France.
 - Industry member of the MIAI institute, [Collaborative Intelligent Systems chair](https://miai.univ-grenoble-alpes.fr/research/chairs/perception-interaction/collaborative-intelligent-systems-856520.kjsp?RH=6499587734413182).
-- Member of Luminis, Orange's patent reflection group.
+- Member of Luminis, patent reflection group of Orange.
 
 
 ## Reviewer
 
+- [ACII 2023]
 - [ICPR 2022]
 - [IHM 2022]
