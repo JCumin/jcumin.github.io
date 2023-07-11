@@ -43,6 +43,17 @@ Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset o
 
 ## Reviewer
 
-- [ACII 2023]
-- [ICPR 2022]
-- [IHM 2022]
+
+### International journals
+
+- [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
+
+
+### International conferences
+
+- [ACII 2023](https://acii-conf.net/2023/)
+- [ICPR 2022](https://www.icpr2022.com/)
+
+### National conferences
+
+- [IHM 2022](https://ihm2022.afihm.org/fr/)
