@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 
-## AI Researcher at Orange
+## Julien Cumin – AI Researcher at Orange
 
 <img class="profile-picture" src="photo.jpg">
 
