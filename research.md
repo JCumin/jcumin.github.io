@@ -47,7 +47,7 @@ Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset o
 ### International journals
 
 - [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
-- [Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)
+- [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)
 
 
 ### International conferences
