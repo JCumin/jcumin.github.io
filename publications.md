@@ -5,6 +5,7 @@ title: Publications
 
 ## International Conferences
 
+- [ACII 2023] *Accomodating missing modalities in time-continuous multimodal emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ACII 2022] *Emotion recognition with pre-trained transformers using multimodal signals*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ICPR 2022] *Transformer-based self-supervised learning for emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [PerCom 2018] *Inferring availability for communication in smart homes using context*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
