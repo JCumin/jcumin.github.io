@@ -5,6 +5,7 @@ title: Publications
 
 ## International Conferences
 
+- [PerCom 2024] *Generative resident separation and multi-label classification for multi-person activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [ACII 2023] *Accomodating missing modalities in time-continuous multimodal emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ACII 2022] *Emotion recognition with pre-trained transformers using multimodal signals*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ICPR 2022] *Transformer-based self-supervised learning for emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
@@ -29,7 +30,12 @@ title: Publications
 
 ## Patent applications
 
-- [2023] *Method for recognizing situations with temporarily unavailable multimodal data*. Grégoire Lefevbre, Julien Cumin, Juan Vazquez-Rodriguez
+- [2023] *Standby mode adaptation depending on household energy context*. Julien Pairis, Julien Cumin.
+- [2023] *Method for estimating the validity of a value of a sensor in a classification process*. Grégoire Lefebvre, Julien Cumin.
+- [2023] *Dynamic intrusiveness adaptation method for a human behavior identification system*. Jérémy Lacoche, Julien Cumin, Anthony Foulonneau.
+- [2023] *Authentication based on the positioning of a mobile device*. Julien Cumin, Julien Pairis.
+- [2023] *System for determining handedness of a user on a tactile mobile device*. Julien Cumin, Julien Pairis.
+- [2023] *Method for recognizing situations with temporarily unavailable multimodal data*. Grégoire Lefevbre, Julien Cumin, Juan Vazquez-Rodriguez.
 - [2023] *System for estimating distances using a monocular camera*. Stéphane Coutant, Julien Cumin.
 - [2022] *System for indoor localization from correlation of mobile events and fixed sensors*. David Cibaud, Julien Cumin.
 - [2022] *System for automatic logical positioning of screen extension based on physical positions of displays*. Julien Cumin, Fano Ramparany.
@@ -45,7 +51,7 @@ title: Publications
 - [2021] *Reconfiguring of connected objects based on contextual information*. David Cibaud, Julien Cumin.
 - [2021] *Content connection on remote control*. Julien Pairis, Julien Cumin.
 - [2021] *System for verifying the proper functioning of wireless devices*. Julien Cumin, Kévin L’Héréec.
-- [2018] *Automatic adaptatioin of geofencing range depending on context*. Kévin L’Héréec, Julien Cumin.
+- [2018] *Automatic adaptation of geofencing range depending on context*. Kévin L’Héréec, Julien Cumin.
 - [2018] *Propagation of location information of connected objects in an object network*. Julien Cumin, David Cibaud.
 - [2018] *Presence detection by smart peaker*. Julien Pairis, Julien Cumin.
 - [2017] *Prediction of the availability of smart home residents*. Grégoire Lefebvre, Julien Cumin, Fano Ramparany.
