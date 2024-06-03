@@ -19,6 +19,7 @@ title: Publications
 
 ## International Journals
 
+- [TOMM 2024] *Generating and Evaluating Data of Daily Activities with an Autonomous Agent in a Virtual Smart Home*. Lysa Gramoli, Julien Cumin, Jérémy Lacoche, Anthony Foulonneau, Bruno Arnaldi, Valérie Gouranton.
 - [TAAS 2021] *PSINES: activity and availability prediction for adaptive ambient intelligence*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
 - [CONTEXT 2021] *Human activity recognition using place-based decision fusion in a smart home context management system*. Julien Cumin, Fano Ramparany, Grégoire Lefebvre, James L. Crowley.
 
