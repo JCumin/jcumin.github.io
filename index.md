@@ -18,9 +18,10 @@ I am a researcher at Orange Innovation since 2015. My research mainly focuses on
 
 Mail: [julien1.cumin@orange.com](mailto:julien1.cumin@orange.com)
 
+- [LinkedIn](https://fr.linkedin.com/in/julien-cumin-606490314)
 - [Google Scholar](https://scholar.google.com/citations?user=byW2uYQAAAAJ&hl=en)
-- [DBLP](https://dblp.org/pid/174/6777.html)
 - [Researchgate](https://www.researchgate.net/profile/Julien-Cumin)
+- [DBLP](https://dblp.org/pid/174/6777.html)
 
 
 > Julien Cumin, Orange<br>
