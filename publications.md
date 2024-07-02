@@ -5,6 +5,7 @@ title: Publications
 
 ## International Conferences
 
+- [Preprint 2024] *Towards LLM-powered ambient sensor based multi-person human activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [PerCom 2024] *Generative resident separation and multi-label classification for multi-person activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [ACII 2023] *Accomodating missing modalities in time-continuous multimodal emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ACII 2022] *Emotion recognition with pre-trained transformers using multimodal signals*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
