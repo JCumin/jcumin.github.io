@@ -1,21 +1,21 @@
 ## Current research projects
 
-### Human activity recognition
+### Human context understanding in smart environments
 
-My main research topic deals with the identification of human activities in pervasive environments. In particular, my main focus is the use of contextual information (such as locations of sensors and people) to improve machine learning models for such tasks.
+My main research topic deals with the identification of human context information in pervasive environments. In particular, my main focus is the use of contextual information to improve recognition models.
 
 Smart homes and smart offices are the major application domains of my work. Nevertherless, my contributions can be applied to other pervasive environments where human context understanding is important.
 
-Future works include working on situations of multi-human activities. That is, situations where multiple people perform different activities simultaneously in the same environment. We are also interested in recognizing group activities, which implies interactions between subjects.
+Our current work in the thesis of Xi Chen include working on dealing with multi-person situations. That is, situations where multiple people perform different activities simultaneously in the same environment. We are also interested in recognizing group activities, which implies interactions between subjects.
 
-Other future subjects include exploiting a priori knowledge of context information (such as locations of sensors) to allow unsupervised discovery of human activity-related information.
+Our current approach consists in leveraging the general knowledge of Large Language Models (LLM) to automatically infer contextually-adequate human information, from heterogeneous data and environment descriptions.
 
 
 ### Emotion recognition
 
-Through Juan Vazquez-Rodriguez's thesis, we are interested in recognizing human emotion from multimodal data sources, such as physiological, visual, and audio data.
+During Juan Vazquez-Rodriguez's thesis, we worked on recognizing human emotion from multimodal data sources, such as physiological, visual, and audio data.
 
-One of our major goals is to propose new attention-based models such as Transformers, that can deal with multimodal data while still being pre-trainable from different data sets.
+The major proposals of this thesis were to propose new attention-based models such as Transformers, that can deal with multimodal data while still being pre-trainable from different data sets.
 
 
 ## Datasets
