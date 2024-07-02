@@ -9,9 +9,9 @@ title: About me
 
 I am a researcher at Orange Innovation since 2015. My research mainly focuses on the **identification of human context information in pervasive systems**:
 
-- **Recognizing human activities in smart homes** and other smart environments from heterogeneous ambient data.
-- **Predicting future human activities in smart homes**, through the use of Dynamic Bayesian Networks (DBN).
-- **Identifying human emotions** from physiological data, with **attention-based models**.
+- **Recognizing human activities and emotions in smart environments** from heterogeneous ambient data.
+- **Managing and analyzing home network data** for context-aware services.
+- **Artificial intelligence techniques (deep learning, generative AI, etc.)** for these use cases.
 
 
 ## Contact information
