@@ -52,6 +52,7 @@ Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset o
 
 ### International conferences
 
+- [PerCom 2025 CoMoRea workshop](https://sites.google.com/view/comorea25) (TPC member)
 - [ACII 2023](https://acii-conf.net/2023/)
 - [ICPR 2022](https://www.icpr2022.com/)
 
