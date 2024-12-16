@@ -37,7 +37,7 @@ Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley. *A dataset o
 ## Affiliations
 
 - Full-time AI researcher for Orange Innovation, Grenoble, France.
-- Industry member of the MIAI institute, [Collaborative Intelligent Systems chair](https://miai.univ-grenoble-alpes.fr/research/chairs/perception-interaction/collaborative-intelligent-systems-856520.kjsp?RH=6499587734413182).
+- Industry member of the [MIAI institute](https://miai.univ-grenoble-alpes.fr/).
 - Member of Luminis, patent reflection group of Orange.
 
 
