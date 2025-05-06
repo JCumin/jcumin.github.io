@@ -5,6 +5,8 @@ title: Publications
 
 ## International Conferences
 
+- [Preprint 2025] * MuRAL: a multi-resident ambient sensor dataset annotated with natural language for activities of daily living*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
+- [Preprint 2025] *Unsupervised feature construction for anomaly detection in time series — an evaluation*. Marine Hamon, Vincent Lemaire, Nour Eddine Yassine Nair-Benrekia, Samuel Berlemont, Julien Cumin.
 - [ICPADS 2024] *Towards LLM-powered ambient sensor based multi-person human activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [PerCom 2024] *Generative resident separation and multi-label classification for multi-person activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [ACII 2023] *Accomodating missing modalities in time-continuous multimodal emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
@@ -34,6 +36,12 @@ title: Publications
 
 ## Patent applications
 
+- [2024] *Process for splitting a sequence of data captured in multi-user situations*. Xi Chen, Julien Cumin, Fano Ramparany.
+- [2024] *System for changing configuration of a device in a network without establising explicit connection*. Julien Cumin, Kévin L’Héréec.
+- [2024] *System for saving rendering resources depending on user gaze*. Julien Cumin, Julien Pairis.
+- [2024] *Detection of incidents based on crowds’ attention*. Stéphane Coutant, Julien Cumin.
+- [2024] *System for interacting with a foldable device*. Julien Cumin, Julien Pairis.
+- [2023] *System for determining the interlocutor using a monocular camera*. Stéphane Coutant, Julien Cumin.
 - [2023] *Standby mode adaptation depending on household energy context*. Julien Pairis, Julien Cumin.
 - [2023] *Method for estimating the validity of a value of a sensor in a classification process*. Grégoire Lefebvre, Julien Cumin.
 - [2023] *Dynamic intrusiveness adaptation method for a human behavior identification system*. Jérémy Lacoche, Julien Cumin, Anthony Foulonneau.
