@@ -1,6 +1,7 @@
 ## Scientific skills
 
 - Machine learning, deep learning, attention-based models.
+- Language Models, RAG
 - Decision fusion, data fusion
 - Models of human context
 - Semantic web, ontologies
