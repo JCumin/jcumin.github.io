@@ -20,6 +20,16 @@ The major proposals of this thesis were to propose new attention-based models su
 
 ## Datasets
 
+### MuRAL
+
+MuRAL is a dataset of activities of daily living in a multi-resident setting, annotated with fine-grained natural language descriptions, resident identities, and high-level activity labels. This dataset was collected in the [Domus intelligent apartment platform](https://www.liglab.fr/en/research/plateforms/domus), in 2025.
+
+This dataset was collected to support future research on multi-resident activity recognition, in particular LLM-powered approaches that can leverage common-knowledge context reasoning to infer activities, using natural language descriptions of the environment and sensors installed in it.
+
+This dataset is **openly available**, simply contact me by email to ask for access to the dataset. Any use of this dataset in publications must cite the following publication:
+
+Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz. *MuRAL: a multi-resident ambient sensor dataset annotated with natural language for activities of daily living*. arXiv preprint 2025.
+
 ### Orange4Home
 
 Orange4Home is a dataset of routines of daily living captured in [Amiqual4Home’s smart home environment](https://amiqual4home.inria.fr/tools/smart-home/), from January 30th, 2017 to February 24th, 2017.
