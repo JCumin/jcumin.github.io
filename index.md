@@ -7,7 +7,7 @@ title: About me
 
 <img class="profile-picture" src="photo.jpg">
 
-I am a researcher at Orange Innovation since 2015. My research mainly focuses on the **identification of human context information in pervasive systems**:
+I am a researcher at Orange Research since 2015. My research mainly focuses on the **identification of human context information in pervasive systems**:
 
 - **Recognizing human activities and emotions in smart environments** from heterogeneous ambient data.
 - **Managing and analyzing home network data** for context-aware services.
