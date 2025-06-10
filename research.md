@@ -26,7 +26,7 @@ See Datasets tab.
 
 ## Affiliations
 
-- Full-time AI researcher for Orange Innovation, Grenoble, France.
+- Full-time AI researcher for Orange Research, Grenoble, France.
 - Industry member of the [MIAI institute](https://miai.univ-grenoble-alpes.fr/).
 - Member of Luminis, patent reflection group of Orange.
 
