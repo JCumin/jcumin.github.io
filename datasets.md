@@ -10,9 +10,11 @@ MuRAL is a dataset of activities of daily living in a multi-resident setting, an
 
 This dataset was collected to support future research on multi-resident activity recognition, in particular LLM-powered approaches that can leverage common-knowledge context reasoning to infer activities, using natural language descriptions of the environment and sensors installed in it.
 
+[More information about the dataset is available here.](https://mural.imag.fr/)
+
 ### Download and conditions of use
 
-This dataset is **openly available**, simply contact me by email to ask for access to the dataset. (a download link will be available soon)
+[This dataset is **openly available** and and a download link can be found here.](https://mural.imag.fr/)
 
 **Any use of this dataset in publications must cite the following publication:**
 
@@ -30,7 +32,7 @@ This dataset is the result of a joint work between Orange and Inria. The experim
 
 ### Download and conditions of use
 
-[This dataset is **openly available** and can be downloaded here](https://github.com/JCumin/jcumin.github.io/raw/refs/heads/main/orange4home.zip)
+[This dataset is **openly available** and can be downloaded here.](https://github.com/JCumin/jcumin.github.io/raw/refs/heads/main/orange4home.zip)
 
 
 **Any use of this dataset in publications must cite the following publication:**
