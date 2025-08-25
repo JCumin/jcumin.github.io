@@ -5,6 +5,7 @@ title: Students
 
 ## Doctoral students
 
+- [2025 - 2028] Marc Pinet. *Self-supervised anomaly detection and explanation in temporal data*. Supervised by Julien Cumin, Samuel Berlemont, Dominique Vaufreydaz.
 - [2023 - 2026] Xi Chen. [*Recognizing multi-human activities in connected environments*](https://www.theses.fr/s361879). Supervised by Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [Defended on November 27, 2023] Juan Vazquez-Rodriguez. [*Multimodal Transformers for Affective Computing*](https://www.theses.fr/s247605#). Supervised by Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 
