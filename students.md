@@ -13,6 +13,7 @@ title: Students
 ## Internships
 
 - [2025] Oussama Er-Rahmany. *Compression of Large Language Models (LLM) for human activity recognition*.
+- [2025] Mohammed Achraf El Khamlichi. *Development of a library for robust unsupervised anomaly detection*.
 - [2019] Hela Rajhi. *Automatic localization of sensors in smart homes based on unsupervised machine learning techniques*.
 
 
