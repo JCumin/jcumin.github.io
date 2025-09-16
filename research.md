@@ -36,6 +36,7 @@ See Datasets tab.
 
 ### International journals
 
+- [Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut)
 - [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)
 - [Sensors](https://www.mdpi.com/journal/sensors)
