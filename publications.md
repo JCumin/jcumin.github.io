@@ -5,6 +5,7 @@ title: Publications
 
 ## International Conferences
 
+- [Preprint 2025] *Knowledge distillation for LLM-based human activity recognition in homes*. Julien Cumin, Oussama Er-Rahmany, Xi Chen.
 - [Preprint 2025] *MuRAL: a multi-resident ambient sensor dataset annotated with natural language for activities of daily living*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [ECML PKDD 2025] *Unsupervised feature construction for anomaly detection in time series — an evaluation*. Marine Hamon, Vincent Lemaire, Nour Eddine Yassine Nair-Benrekia, Samuel Berlemont, Julien Cumin.
 - [ICPADS 2024] *Towards LLM-powered ambient sensor based multi-person human activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
