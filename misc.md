@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="minipaint.png" height="200">
 
-(You can find my miniature paintings on Instagram)[https://www.instagram.com/julien.cumin/]
+[You can find my miniature paintings on Instagram](https://www.instagram.com/julien.cumin/)
 
 ## Brachylog
 
