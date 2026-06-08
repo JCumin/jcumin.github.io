@@ -1,6 +1,6 @@
 ## Miniature painting
 
-<img class="misc-picture" src="minipaint.png" height="200" width="200">
+<img class="misc-picture" src="minipaint.png">
 
 [You can find my miniature paintings on Instagram](https://www.instagram.com/julien.cumin/)
 
