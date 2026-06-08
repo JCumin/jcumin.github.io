@@ -1,3 +1,9 @@
+## Miniature painting
+
+<img class="profile-picture" src="minipaint.png" height="200">
+
+(You can find my miniature paintings on Instagram)[https://www.instagram.com/julien.cumin/]
+
 ## Brachylog
 
 Brachylog is a declarative logic programming language much like Prolog. Brachylog is designed to be much terser than Prolog, while retaining some readability.
