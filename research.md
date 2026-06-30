@@ -36,6 +36,7 @@ See Datasets tab.
 
 ### International journals
 
+- [Nature](https://www.nature.com/)
 - [Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)](https://dl.acm.org/journal/imwut)
 - [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [ACM Transactions on Multimedia Computing, Communications, and Applications](https://dl.acm.org/journal/tomm)
@@ -44,7 +45,7 @@ See Datasets tab.
 
 ### International conferences
 
-- [PerCom 2025 CoMoRea workshop](https://sites.google.com/view/comorea25) (TPC member)
+- [PerCom CoMoRe-AI workshop: 2025, 2026](https://sites.google.com/view/comorea25) (TPC member)
 - [ACII 2023](https://acii-conf.net/2023/)
 - [ICPR 2022](https://www.icpr2022.com/)
 
