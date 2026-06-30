@@ -5,16 +5,16 @@ title: Publications
 
 ## International Conferences
 
-- [Preprint 2026] *Anomalies in multivariate time series benchmarks are mostly univariate*. Marc Pinet, Julien Cumin, Samuel Berlemont, Dominique Vaufreydaz.
+- [MILETS @ KDD 2026] *Anomalies in multivariate time series benchmarks are mostly univariate*. Marc Pinet, Julien Cumin, Samuel Berlemont, Dominique Vaufreydaz.
 - [IE 2026] *MuRAL: a multi-resident ambient sensor dataset annotated with natural language for activities of daily living*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [Preprint 2025] *Knowledge distillation for LLM-based human activity recognition in homes*. Julien Cumin, Oussama Er-Rahmany, Xi Chen.
 - [ECML PKDD 2025] *Unsupervised feature construction for anomaly detection in time series — an evaluation*. Marine Hamon, Vincent Lemaire, Nour Eddine Yassine Nair-Benrekia, Samuel Berlemont, Julien Cumin.
 - [ICPADS 2024] *Towards LLM-powered ambient sensor based multi-person human activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
-- [PerCom 2024] *Generative resident separation and multi-label classification for multi-person activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
+- [CoMoRe-AI @ PerCom 2024] *Generative resident separation and multi-label classification for multi-person activity recognition*. Xi Chen, Julien Cumin, Fano Ramparany, Dominique Vaufreydaz.
 - [ACII 2023] *Accomodating missing modalities in time-continuous multimodal emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ACII 2022] *Emotion recognition with pre-trained transformers using multimodal signals*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
 - [ICPR 2022] *Transformer-based self-supervised learning for emotion recognition*. Juan Vazquez-Rodriguez, Grégoire Lefebvre, Julien Cumin, James L. Crowley.
-- [PerCom 2018] *Inferring availability for communication in smart homes using context*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
+- [CoMoRea @ PerCom 2018] *Inferring availability for communication in smart homes using context*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
 - [UCAmI 2017] *A dataset of routine daily activities in an instrumented home*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
 - [CONTEXT 2017] *Human activity recognition using place-based decision fusion in smart homes*. Julien Cumin, Grégoire Lefebvre, Fano Ramparany, James L. Crowley.
 - [EDBT 2017] *Data exploration with SQL using machine learning techniques*. Julien Cumin, Jean-Marc Petit, Vasile-Marian Scuturici, Sabina Surdu.
